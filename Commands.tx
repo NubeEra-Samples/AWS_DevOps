@@ -1,0 +1,3 @@
+aws ecr get-login docker login –u mujahed –p Admin_123 –e none https://aws_account_id.dkr.ecr.us-east-1.amazonaws.com
+
+aws ecr get-login docker login –u mujahed –p Admin_123 –e none https://260930196466.dkr.ecr.us-east-1.amazonaws.com
